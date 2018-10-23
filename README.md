@@ -7,5 +7,8 @@ Create an ASP.NET Core MVC web application from an empty Web App template, with 
 ![Results Page](../../assets/lab11a.png "Results Page Screenshot")
 
 ## Load Application
-
+1.	in terminal : git clone https://github.com/mtncrawler/lab11-MVCapp.git  
+2.	open lab11_mvcApp.sln  
+3.	run using IIS Express
+4.	enjoy my MVC app!
 
