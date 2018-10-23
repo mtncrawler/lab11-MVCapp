@@ -23,9 +23,7 @@ namespace lab11_mvcApp.Controllers
 
         public ViewResult Result(int startYear, int endYear)
         {
-            TimePerson person = new TimePerson();
-            
-            return View(person);
+            return View(TimePerson.GetPersons(startYear, endYear));
         }
     }
 }
