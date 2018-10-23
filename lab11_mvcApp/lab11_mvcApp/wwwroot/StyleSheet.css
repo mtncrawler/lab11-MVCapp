@@ -1,3 +1,9 @@
-﻿body {
-    background-color: azure;
+﻿div{
+    text-align:center;
+    border-style:outset;
+    border-width: 10px;
+    border-color: red;
+    max-width:  70%;
+    height: 750px;
+    margin: 0 25%;
 }
